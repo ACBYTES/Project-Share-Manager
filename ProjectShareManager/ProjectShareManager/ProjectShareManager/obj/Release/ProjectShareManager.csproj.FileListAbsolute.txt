@@ -1,0 +1,14 @@
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\bin\Release\ProjectShareManager.exe.config
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\bin\Release\ProjectShareManager.exe
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\bin\Release\ProjectShareManager.pdb
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\obj\Release\ProjectShareManager.ACBytesControlBox.resources
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\obj\Release\ProjectShareManager.Form1.resources
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\obj\Release\ProjectShareManager.ProcessInfo.resources
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\obj\Release\ProjectShareManager.Properties.Resources.resources
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\obj\Release\ProjectShareManager.csproj.GenerateResource.cache
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\obj\Release\ProjectShareManager.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\obj\Release\ProjectShareManager.exe
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\obj\Release\ProjectShareManager.pdb
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\obj\Release\ProjectShareManager.CustomLogForm.resources
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\obj\Release\ProjectShareManager.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\ProjectShareManager\ProjectShareManager\obj\Release\ProjectShareManager.FormSIMW.resources
